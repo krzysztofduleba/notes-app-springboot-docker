@@ -14,7 +14,7 @@ A simple notes app using Spring Boot and Docker.
 - <code>GET</code>: Get a note by id
 - <code>PUT</code>: Update a note by id
 - <code>DELETE</code>: Remove a note by id
-- 
+
 ### How to run application in Docker Container
 
 #### MacOS:
